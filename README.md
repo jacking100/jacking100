@@ -16,17 +16,7 @@
 [![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](https://github.com/seuUsuario/projeto-mysql)
 [![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)](https://github.com/seuUsuario/projeto-docker)
 
-<p align="center">
-  <a href="https://github.com/seuUsuario/projeto-java" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="5" />
-  </a>
-  <a href="https://github.com/seuUsuario/projeto-mysql" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="5" />
-  </a>
-  <a href="https://github.com/seuUsuario/projeto-docker" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="5" />
-  </a>
-</p>
+
 
 
 
