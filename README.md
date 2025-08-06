@@ -1,21 +1,15 @@
 ## 👋 Olá! Bem-vindo ao meu perfil no GitHub
 
-
 <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacking100&layout=compact&theme=algolia&hide=html,css&cache_seconds=86400" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jacking100&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia" />
     </td>
   </tr>
 </table>
-
-
-
-
-
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20" height="20" />  &nbsp;&nbsp;
@@ -29,21 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="20" height="20" />  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="20" height="20" /> 
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Sou um entusiasta da tecnologia, apaixonado por desenvolvimento de software, bancos de dados e soluções criativas para problemas reais. Aqui você encontrará repositórios com estudos, projetos pessoais e experimentos com diversas linguagens e ferramentas.
 
@@ -59,28 +38,19 @@ Sou um entusiasta da tecnologia, apaixonado por desenvolvimento de software, ban
 ---
 
 ### 🧠 Habilidades
-**Linguagens e Tecnologias:**
+**Java | SQL | HTML | CSS | Bash | JavaScript | Docker | Spring | Linux**
 
-```java
-Java | SQL | HTML | CSS | Bash
+---
 
-💬 Vamos conversar!
+### 💬 Vamos conversar!
 
 Se você gosta de tecnologia, aprendizado contínuo e ideias malucas pra codar, me chama!
 
-📧 Email: [jacking100@gmail.com]
-🔗 LinkedIn: https://www.linkedin.com/in/jacson-silva-java/
-
-
-
-
-
-![Snake animation](https://github.com/jacking100/jacking100/blob/output/github-contribution-grid-snake.svg)
+📧 Email: [jacking100@gmail.com](mailto:jacking100@gmail.com)  
+🔗 LinkedIn: [https://www.linkedin.com/in/jacson-silva-java/](https://www.linkedin.com/in/jacson-silva-java/)
 
 ---
 
 ### 🐍 Snake game contribution graph
 
 ![Snake animation](https://github.com/jacking100/jacking100/blob/output/github-contribution-grid-snake.svg)
-
-
