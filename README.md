@@ -53,3 +53,4 @@ Se você gosta de tecnologia, aprendizado contínuo e ideias malucas pra codar, 
 
 ![Snake animation](https://github.com/jacking100/jacking100/blob/output/github-contribution-grid-snake.svg)
 
+
