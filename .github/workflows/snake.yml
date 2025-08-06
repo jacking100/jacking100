@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"  # Roda todo dia à meia-noite
   workflow_dispatch:      # Permite rodar manualmente
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -24,3 +27,5 @@ jobs:
         with:
           message: "Atualizando a cobrinha 🐍"
           add: "github-contribution-grid-snake.svg"
+
+
