@@ -70,3 +70,10 @@ Se você gosta de tecnologia, aprendizado contínuo e ideias malucas pra codar, 
 
 📧 Email: [jacking100@gmail.com]
 🔗 LinkedIn: https://www.linkedin.com/in/jacson-silva-java/
+
+
+
+
+
+![Snake animation](https://github.com/jacking100/jacking100/blob/output/github-contribution-grid-snake.svg)
+
