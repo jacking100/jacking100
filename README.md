@@ -44,7 +44,7 @@ Sou um entusiasta da tecnologia, apaixonado por desenvolvimento de software, ban
 
 ### 💬 Vamos conversar!
 
-Se você gosta de tecnologia, aprendizado contínuo e ideias malucas pra codar, me chama!
+Se você gosta de tecnologia, aprendizado contínuo e ideias pra codar, me chama!
 
 📧 Email: [jacking100@gmail.com](mailto:jacking100@gmail.com)  
 🔗 LinkedIn: [https://www.linkedin.com/in/jacson-silva-java/](https://www.linkedin.com/in/jacson-silva-java/)
